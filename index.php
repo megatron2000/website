@@ -3,7 +3,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<head>
 		<title>Lines</title>
-		<link rel="stylesheet" href="base.css">
+		<link rel="stylesheet" href="style.css">
 		<link rel="shortcut icon" href="favicon.ico">
 	</head>
 	
